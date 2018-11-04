@@ -1,0 +1,14 @@
+C:\Users\jmusku\source\repos\DroneMovement\DroneMovement\obj\Debug\DroneMovement.csproj.CoreCompileInputs.cache
+C:\Users\jmusku\source\repos\DroneMovement\DroneMovement\bin\Debug\DroneMovement.exe.config
+C:\Users\jmusku\source\repos\DroneMovement\DroneMovement\bin\Debug\DroneMovement.exe
+C:\Users\jmusku\source\repos\DroneMovement\DroneMovement\bin\Debug\DroneMovement.pdb
+C:\Users\jmusku\source\repos\DroneMovement\DroneMovement\obj\Debug\DroneMovement.exe
+C:\Users\jmusku\source\repos\DroneMovement\DroneMovement\obj\Debug\DroneMovement.pdb
+C:\Users\jmusku\source\repos\DroneMovement\DroneMovement\obj\Debug\DroneMovement.csprojAssemblyReference.cache
+E:\DroneMovement\DroneMovement\DroneMovement\bin\Debug\DroneMovement.exe.config
+E:\DroneMovement\DroneMovement\DroneMovement\bin\Debug\DroneMovement.exe
+E:\DroneMovement\DroneMovement\DroneMovement\bin\Debug\DroneMovement.pdb
+E:\DroneMovement\DroneMovement\DroneMovement\obj\Debug\DroneMovement.csprojAssemblyReference.cache
+E:\DroneMovement\DroneMovement\DroneMovement\obj\Debug\DroneMovement.csproj.CoreCompileInputs.cache
+E:\DroneMovement\DroneMovement\DroneMovement\obj\Debug\DroneMovement.exe
+E:\DroneMovement\DroneMovement\DroneMovement\obj\Debug\DroneMovement.pdb
